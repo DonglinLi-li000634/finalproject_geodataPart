@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">finalproject_geodataPart</string>
+    <string name="GetIn">Click here to get in</string>
+    <string name="PutLat">Put lon here</string>
+    <string name="PutLon">Put lat here</string>
+    <string name="GoSearch">Search</string>
+    <string name="GoGoogle">Click to search on google</string>
+    <string name="Back">Back to last page</string>
+    <string name="error1">No loction providers,Put in</string>
+    <string name="error2">Get error</string>
+</resources>
