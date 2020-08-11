@@ -40,7 +40,7 @@ public class GeoMain extends AppCompatActivity {
     Button goSearch;
     LocationManager locationManager;
     String locationProvider;
-    String URLSEC="https://api.geodatasource.com/cities?key=QXLEJE4O05BPDXWJJWOVXRAJIUBEZHXG&";
+    String URLSEC="https://api.geodatasource.com/cities?key=4ZF0AATMV97B8PFIIAPI5EXSAZ637CBM&";
     ListView myList;
     String ForResult;
     ArrayList<MyList> cityList=new ArrayList<>();
